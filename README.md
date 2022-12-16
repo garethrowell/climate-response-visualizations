@@ -1,4 +1,4 @@
-# climate-sensitivity-R
+# climate-response-visualizations
 This is a placeholder for R analysis on climate exposure and ecological system response
 
 # Notes
